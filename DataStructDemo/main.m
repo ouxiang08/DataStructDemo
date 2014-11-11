@@ -6,6 +6,7 @@
 //  Copyright (c) 2014年 jingjing.jia. All rights reserved.
 //
 
+#import "DSAppDelegate.h"
 #import <UIKit/UIKit.h>
 
 int main(int argc, char * argv[])
